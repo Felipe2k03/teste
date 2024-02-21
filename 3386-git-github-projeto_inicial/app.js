@@ -65,6 +65,7 @@ function reiniciarJogo() {
     document.getElementById('reiniciar').setAttribute('disabled', true)
 }
 
+//estou testando fazer uma atualização 
 
 
 
